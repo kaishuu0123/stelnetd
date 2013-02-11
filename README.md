@@ -1,2 +1,3 @@
 stelnetd
 ========
+ * simple telnet daemon
